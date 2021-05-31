@@ -1,0 +1,99 @@
+title:Jacob's PvE Wishlist collection
+description:A collection of Wishlist rolls designed for personal use
+
+// CHROMA RUSH
+dimwishlist:item=1119734784&perks=2779035018,1015611457 // feeding frenzy, kill clip
+dimwishlist:item=1119734784&perks=2779035018,3425386926 // feeding frenzy, rampage
+dimwishlist:item=1119734784&perks=2779035018,2726471870 // feeding frenzy, thresh
+dimwishlist:item=1119734784&perks=2779035018,3592538738 // feeding frenzy, wellspring
+dimwishlist:item=1119734784&perks=1820235745,3425386926 // subsistence, rampage
+dimwishlist:item=1119734784&perks=1820235745,2726471870 // subsistence, thresh
+dimwishlist:item=1119734784&perks=1820235745,3592538738 // subsistence, wellspring
+
+// FATEBRINGER
+dimwishlist:item=2171478765&perks=3418782618,4104185692 // rewind rounds, frenzy
+dimwishlist:item=2171478765&perks=2726471870,4104185692 // thresh, frenzy
+dimwishlist:item=2171478765&perks=2726471870,3824105627 // thresh, firefly
+dimwishlist:item=2171478765&perks=3038247973,4104185692 // explosive payload, frenzy
+dimwishlist:item=2171478765&perks=3038247973,3824105627 // explosive payload, firefly
+// FATEBRINGER (TIMELOST)
+dimwishlist:item=1216319404&perks=3418782618,4104185692 // rewind rounds, frenzy
+dimwishlist:item=1216319404&perks=2726471870,4104185692 // thresh, frenzy
+dimwishlist:item=1216319404&perks=2726471870,3824105627 // thresh, firefly
+dimwishlist:item=1216319404&perks=3038247973,4104185692 // explosive payload, frenzy
+dimwishlist:item=1216319404&perks=3038247973,3824105627 // explosive payload, firefly
+
+// GRIDSKIPPER
+dimwishlist:item=1621558458&perks=280464955,4104185692 // firmly planted, frenzy
+dimwishlist:item=1621558458&perks=280464955,2726471870 // firmly planted, thresh
+dimwishlist:item=1621558458&perks=280464955,2458213969 // firmly planted, multikill clip
+
+// HUNG JURY SR4
+dimwishlist:item=4281371574&perks=247725512,3038247973 // rapid hit, explosive payload
+dimwishlist:item=4281371574&perks=247725512,3592538738 // rapid hit, wellspring
+dimwishlist:item=4281371574&perks=247725512,4049631843 // rapid hit, one for all
+dimwishlist:item=4281371574&perks=3436462433,3038247973 // surplus, explosive payload
+dimwishlist:item=4281371574&perks=3436462433,3592538738 // surplus, wellspring
+dimwishlist:item=4281371574&perks=3436462433,4049631843 // surplus, one for all
+// HUNG JURY SR4 (ADEPT)
+dimwishlist:item=681067419&perks=247725512,3038247973 // rapid hit, explosive payload
+dimwishlist:item=681067419&perks=247725512,3592538738 // rapid hit, wellspring
+dimwishlist:item=681067419&perks=247725512,4049631843 // rapid hit, one for all
+dimwishlist:item=681067419&perks=3436462433,3038247973 // surplus, explosive payload
+dimwishlist:item=681067419&perks=3436462433,3592538738 // surplus, wellspring
+dimwishlist:item=681067419&perks=3436462433,4049631843 // surplus, one for all
+
+// VISION OF CONFLUENCE
+dimwishlist:item=3186018373&perks=3436462433,1015611457 // surplus, kill clip
+dimwishlist:item=3186018373&perks=3436462433,1683379515 // surplus, disruption break
+dimwishlist:item=3186018373&perks=3436462433,4104185692 // surplus, frenzy
+dimwishlist:item=3186018373&perks=3436462433,2726471870 // surplus, thresh
+dimwishlist:item=3186018373&perks=3592538738,4104185692 // wellspring, frenzy
+dimwishlist:item=3186018373&perks=3418782618,3824105627 // rewind rounds, firefly
+dimwishlist:item=3186018373&perks=3418782618,1683379515 // rewind rounds, disruption break
+dimwishlist:item=3186018373&perks=3418782618,4104185692 // rewind rounds, frenzy
+dimwishlist:item=3186018373&perks=3418782618,2726471870 // rewind rounds, thresh
+// VISION OF CONFLUENCE (TIMELOST)
+dimwishlist:item=690668916&perks=3436462433,1015611457 // surplus, kill clip
+dimwishlist:item=690668916&perks=3436462433,1683379515 // surplus, disruption break
+dimwishlist:item=690668916&perks=3436462433,4104185692 // surplus, frenzy
+dimwishlist:item=690668916&perks=3436462433,2726471870 // surplus, thresh
+dimwishlist:item=690668916&perks=3592538738,4104185692 // wellspring, frenzy
+dimwishlist:item=690668916&perks=3418782618,3824105627 // rewind rounds, firefly
+dimwishlist:item=690668916&perks=3418782618,1683379515 // rewind rounds, disruption break
+dimwishlist:item=690668916&perks=3418782618,4104185692 // rewind rounds, frenzy
+dimwishlist:item=690668916&perks=3418782618,2726471870 // rewind rounds, thresh
+
+// NULL COMPOSURE
+dimwishlist:item=1644680957&perks=2779035018,1427256713 // feeding frenzy, reservoir burst
+
+// IGNITION CODE
+dimwishlist:item=304659313&perks=3032599245,2869569095,1546637391 // blinding grenades, field prep, vorpal weapon
+dimwishlist:item=304659313&perks=3032599245,2869569095,3523296417 // blinding grenades, field prep, demolitionist
+dimwishlist:item=304659313&perks=3032599245,2869569095,4104185692 // blinding grenades, field prep, frenzy
+dimwishlist:item=304659313&perks=3032599245,3436462433,1546637391 // blinding grenades, surplus, vorpal weapon
+dimwishlist:item=304659313&perks=3032599245,3436462433,3523296417 // blinding grenades, surplus, demolitionist
+dimwishlist:item=304659313&perks=3032599245,3436462433,4104185692 // blinding grenades, surplus, frenzy
+dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391 // spike grenades, field prep, vorpal weapon
+dimwishlist:item=304659313&perks=3301904089,2869569095,4104185692 // spike grenades, field prep, frenzy
+dimwishlist:item=304659313&perks=3301904089,3436462433,1546637391 // spike grenades, surplus, vorpal weapon
+dimwishlist:item=304659313&perks=3301904089,3436462433,4104185692 // spike grenades, surplus, frenzy
+
+// EMPTY VESSEL
+dimwishlist:item=4255586669&perks=3032599245,3436462433,3523296417 // blinding grenades, surplus, demolitionist
+dimwishlist:item=4255586669&perks=3032599245,3436462433,1546637391 // blinding grenades, surplus, vorpal weapon
+dimwishlist:item=4255586669&perks=3032599245,3300816228,3523296417 // blinding grenades, auto-loading holster, demolitionist
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391 // blinding grenades, auto-loading holster, vorpal weapon
+dimwishlist:item=4255586669&perks=3032599245,2869569095,3523296417 // blinding grenades, field prep, demolitionist
+dimwishlist:item=4255586669&perks=3032599245,2869569095,1546637391 // blinding grenades, field prep, vorpal weapon
+dimwishlist:item=4255586669&perks=3301904089,3436462433,1546637391 // spike grenades, surplus, vorpal weapon
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391 // spike grenades, auto-loading holster, vorpal weapon
+dimwishlist:item=4255586669&perks=3301904089,2869569095,1546637391 // spike grenades, field prep, vorpal weapon
+
+// STOCHASTIC VARIABLE
+dimwishlist:item=2272470786&perks=3436462433,3108830275 // surplus, unrelenting
+dimwishlist:item=2272470786&perks=3436462433,2458213969 // surplus, multikill clip
+dimwishlist:item=2272470786&perks=3436462433,3592538738 // surplus, wellspring
+dimwishlist:item=2272470786&perks=2779035018,3108830275 // feeding frenzy, unrelenting
+dimwishlist:item=2272470786&perks=2779035018,2458213969 // feeding frenzy, multikill clip
+dimwishlist:item=2272470786&perks=2779035018,3592538738 // feeding frenzy, wellspring

@@ -97,3 +97,38 @@ dimwishlist:item=2272470786&perks=3436462433,3592538738 // surplus, wellspring
 dimwishlist:item=2272470786&perks=2779035018,3108830275 // feeding frenzy, unrelenting
 dimwishlist:item=2272470786&perks=2779035018,2458213969 // feeding frenzy, multikill clip
 dimwishlist:item=2272470786&perks=2779035018,3592538738 // feeding frenzy, wellspring
+
+// FOUND VERDICT
+dimwishlist:item=3197270240&perks=3300816228,2679249093 // auto-loading holster, one-two punch
+// FOUND VERDICT (TIMELOST)
+dimwishlist:item=631439337&perks=3300816228,2679249093 // auto-loading holster, one-two punch
+
+// SOJOURNER'S TALE
+dimwishlist:item=599895591&perks=3300816228,4104185692 // auto-loading holster, frenzy
+
+// CORRECTIVE MEASURE
+dimwishlist:item=471518543&perks=2779035018,2726471870 // feeding frenzy, thresh
+dimwishlist:item=471518543&perks=2779035018,4049631843 // feeding frenzy, one for all
+dimwishlist:item=471518543&perks=3418782618,2726471870 // rewind rounds, thresh
+dimwishlist:item=471518543&perks=3418782618,4049631843 // rewind rounds, one for all
+dimwishlist:item=471518543&perks=1820235745,2726471870 // subsistence, thresh
+dimwishlist:item=471518543&perks=1820235745,4049631843 // subsistence, one for all
+dimwishlist:item=471518543&perks=3523296417,2726471870 // demolitionist, thresh
+dimwishlist:item=471518543&perks=3523296417,4049631843 // demolitionist, one for all
+// CORRECTIVE MEASURE (TIMELOST)
+dimwishlist:item=3796510434&perks=2779035018,2726471870 // feeding frenzy, thresh
+dimwishlist:item=3796510434&perks=2779035018,4049631843 // feeding frenzy, one for all
+dimwishlist:item=3796510434&perks=3418782618,2726471870 // rewind rounds, thresh
+dimwishlist:item=3796510434&perks=3418782618,4049631843 // rewind rounds, one for all
+dimwishlist:item=3796510434&perks=1820235745,2726471870 // subsistence, thresh
+dimwishlist:item=3796510434&perks=1820235745,4049631843 // subsistence, one for all
+dimwishlist:item=3796510434&perks=3523296417,2726471870 // demolitionist, thresh
+dimwishlist:item=3796510434&perks=3523296417,4049631843 // demolitionist, one for all
+
+// HEZEN VENGEANCE
+dimwishlist:item=4050645223&perks=951095735,1546637391 // impulse amplifier, vorpal weapon
+dimwishlist:item=4050645223&perks=951095735,3927722942 // impulse amplifier, lasting impression
+dimwishlist:item=4050645223&perks=3643424744,1546637391 // overflow, vorpal weapon
+dimwishlist:item=4050645223&perks=3643424744,3927722942 // overflow, lasting impression
+dimwishlist:item=4050645223&perks=3300816228,1546637391 // auto-loading holster, vorpal weapon
+dimwishlist:item=4050645223&perks=3300816228,3927722942 // auto-loading holster, lasting impression

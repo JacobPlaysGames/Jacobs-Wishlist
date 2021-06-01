@@ -132,3 +132,28 @@ dimwishlist:item=4050645223&perks=3643424744,1546637391 // overflow, vorpal weap
 dimwishlist:item=4050645223&perks=3643424744,3927722942 // overflow, lasting impression
 dimwishlist:item=4050645223&perks=3300816228,1546637391 // auto-loading holster, vorpal weapon
 dimwishlist:item=4050645223&perks=3300816228,3927722942 // auto-loading holster, lasting impression
+
+// BOTTOM DOLLAR
+dimwishlist:item=1046651176&perks=3436462433,2726471870 // surplus, thresh
+dimwishlist:item=1046651176&perks=3436462433,3592538738 // surplus, wellspring
+dimwishlist:item=1046651176&perks=3436462433,3108830275 // surplus, unrelenting
+dimwishlist:item=1046651176&perks=3436462433,1683379515 // surplus, disruption break
+dimwishlist:item=1046651176&perks=3436462433,2458213969 // surplus, multikill clip
+dimwishlist:item=1046651176&perks=3436462433,3425386926 // surplus, rampage
+dimwishlist:item=1046651176&perks=3436462433,3523296417 // surplus, demolitionist
+dimwishlist:item=1046651176&perks=3436462433,3038247973 // surplus, explosive payload
+dimwishlist:item=1046651176&perks=1820235745,2726471870 // subsistence, thresh
+dimwishlist:item=1046651176&perks=1820235745,3592538738 // subsistence, wellspring
+dimwishlist:item=1046651176&perks=1820235745,3108830275 // subsistence, unrelenting
+dimwishlist:item=1046651176&perks=1820235745,1683379515 // subsistence, disruption break
+dimwishlist:item=1046651176&perks=1820235745,3425386926 // subsistence, rampage
+dimwishlist:item=1046651176&perks=1820235745,3523296417 // subsistence, demolitionist
+dimwishlist:item=1046651176&perks=1820235745,3038247973 // subsistence, explosive payload
+dimwishlist:item=1046651176&perks=1168162263,2726471870 // outlaw, thresh
+dimwishlist:item=1046651176&perks=1168162263,3592538738 // outlaw, wellspring
+dimwishlist:item=1046651176&perks=1168162263,3108830275 // outlaw, unrelenting
+dimwishlist:item=1046651176&perks=1168162263,1683379515 // outlaw, disruption break
+dimwishlist:item=1046651176&perks=1168162263,2458213969 // outlaw, multikill clip
+dimwishlist:item=1046651176&perks=1168162263,3425386926 // outlaw, rampage
+dimwishlist:item=1046651176&perks=1168162263,3523296417 // outlaw, demolitionist
+dimwishlist:item=1046651176&perks=1168162263,3038247973 // outlaw, explosive payload
